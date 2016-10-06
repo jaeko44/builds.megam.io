@@ -1,0 +1,40 @@
+
+# Setup
+title:               Vertice
+email:               info@megam.io
+tagline:             Free continious build status for Megam dev
+url:                 "https://www.megam.io" # insert your site's URL
+baseurl:             ""
+
+# About/contact
+author: # you can edit these to be your personal details
+  name:              Humans - Megam
+  url:               https://twitter.com/megamsys
+  email:             info@megam.io
+
+# Google services
+google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
+google_analytics:
+google_tag_manager:
+# Bing services
+bing_verification:
+
+# Social
+github_username: megamsys
+twitter_username: megamsys
+facebook: megamsystems/
+
+# Custom vars
+version:             1.0.1
+github:
+  repo:              https://github.com/megamsys
+
+# Gems - Dependencies for this theme
+gems:
+  # None currently
+
+# Build settings
+markdown:     kramdown
+permalink:    pretty
